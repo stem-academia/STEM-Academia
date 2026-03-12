@@ -31,7 +31,7 @@ export function RoutineSection() {
       {/* Banner Image */}
       <div className="relative w-full h-48 sm:h-64 lg:h-80 mb-12 overflow-hidden rounded-3xl shadow-2xl max-w-6xl mx-auto">
         <img 
-          src="/images/routine-banner.jpg" 
+          src="images/routine-banner.jpg" 
           alt="Routine" 
           className="w-full h-full object-cover"
         />
