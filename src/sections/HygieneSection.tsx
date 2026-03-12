@@ -19,7 +19,7 @@ export function HygieneSection() {
       {/* Banner Image */}
       <div className="relative w-full h-48 sm:h-64 lg:h-80 mb-12 overflow-hidden rounded-3xl shadow-2xl max-w-6xl mx-auto">
         <img 
-          src="/images/hygiene-banner.jpg" 
+          src="images/hygiene-banner.jpg" 
           alt="Hygiene" 
           className="w-full h-full object-cover"
         />
