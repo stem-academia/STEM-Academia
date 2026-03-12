@@ -13,3 +13,8 @@ export default defineConfig({
     },
   },
 });
+<img src={`${import.meta.env.BASE_URL}images/habits-banner.jpg`} />
+<img src={`${import.meta.env.BASE_URL}images/hygiene-banner.jpg`} />
+<img src={`${import.meta.env.BASE_URL}images/nutrition-banner.jpg`} />
+<img src={`${import.meta.env.BASE_URL}images/routine-banner.jpg`} />
+<img src={`${import.meta.env.BASE_URL}images/sport-banner.jpg`} />
