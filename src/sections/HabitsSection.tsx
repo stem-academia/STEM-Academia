@@ -12,7 +12,7 @@ export function HabitsSection() {
       {/* Banner Image */}
       <div className="relative w-full h-48 sm:h-64 lg:h-80 mb-12 overflow-hidden rounded-3xl shadow-2xl max-w-6xl mx-auto">
         <img 
-          src="/images/habits-banner.jpg" 
+          src="images/habits-banner.jpg" 
           alt="Habits" 
           className="w-full h-full object-cover"
         />
