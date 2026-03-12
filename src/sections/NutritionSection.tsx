@@ -34,7 +34,7 @@ export function NutritionSection() {
       {/* Banner Image */}
       <div className="relative w-full h-48 sm:h-64 lg:h-80 mb-12 overflow-hidden rounded-3xl shadow-2xl max-w-6xl mx-auto">
         <img 
-          src="/images/nutrition-banner.jpg" 
+          src="images/nutrition-banner.jpg" 
           alt="Nutrition" 
           className="w-full h-full object-cover"
         />
